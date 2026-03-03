@@ -23,7 +23,7 @@ msgstr "Statistiche"
 
 #: cps/admin.py:128
 msgid "Calibre database unavailable. Please reconfigure the library path."
-msgstr ""
+msgstr "Database di Calibre non disponibile. Per favore riconfigura il percorso della libreria."
 
 #: cps/admin.py:180
 msgid "Server restarted, please reload page."
@@ -62,16 +62,16 @@ msgstr ""
 #: cps/admin.py:257
 #, python-format
 msgid "Error starting Hardcover auto-fetch task: %(error)s"
-msgstr ""
+msgstr "Errore durante l’avvio dell’attività di recupero automatico di Hardcover: %(error)s"
 
 #: cps/admin.py:296 cps/templates/admin.html:223
 msgid "Review Hardcover Matches"
-msgstr ""
+msgstr "Rivedi le corrispondenze di Hardcover"
 
 #: cps/admin.py:303
 #, python-format
 msgid "Error loading review queue: %(error)s"
-msgstr ""
+msgstr "Errore durante il caricamento della coda di revisione: %(error)s"
 
 #: cps/admin.py:384
 #, fuzzy
@@ -81,31 +81,31 @@ msgstr "{} utenti eliminati correttamente"
 #: cps/admin.py:401
 #, python-format
 msgid "Match %(action)s"
-msgstr ""
+msgstr "Corrispondenza %(action)s"
 
 #: cps/admin.py:439
 msgid "No pending matches to reject"
-msgstr ""
+msgstr "Nessuna corrispondenza in sospeso da rifiutare"
 
 #: cps/admin.py:445
 #, python-format
 msgid "Rejected %(count)s match(es)"
-msgstr ""
+msgstr "Rifiutata/e %(count)s corrispondenza/e"
 
 #: cps/admin.py:482
 #, python-brace-format
 msgid ""
 "Thumbnail cache refresh started for {} book(s). This may take a few minutes."
-msgstr ""
+msgstr "Aggiornamento della cache delle miniature avviato per {} libro/i. L’operazione potrebbe richiedere alcuni minuti."
 
 #: cps/admin.py:484
 msgid "No books with covers found to process."
-msgstr ""
+msgstr "Nessun libro con copertina trovato da elaborare."
 
 #: cps/admin.py:496
 #, python-brace-format
 msgid "Failed to start thumbnail refresh: {}"
-msgstr ""
+msgstr "Impossibile avviare l’aggiornamento delle miniature: {}"
 
 #: cps/admin.py:538
 msgid "Admin page"
